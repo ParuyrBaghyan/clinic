@@ -1,0 +1,123 @@
+export const priceList = [
+    {
+        reserch: 'Էզոֆագոգաստրոդուո դենոսկոպի / կերակրափող, ստամոքս, 12-մատնյա աղիք',
+        price: 20000,
+        data: 20000,
+        quantity:1,
+    },
+    {
+        reserch: 'Կոլոնոսկոպիա / հաստ աղիք',
+        price: 35000,
+        data: 35000,
+        quantity:1,
+    },
+    {
+        reserch: 'Պոլիպի հեռացում / մինչև 0.5 սմ',
+        price: 92000,
+        data: 92000,
+        quantity:1,
+    },
+    {
+        reserch: 'Պոլիպի հեռացում /0.5-1.5 սմ/',
+        price:135000 ,
+        data: 135000,
+        quantity:1,
+    },
+    {
+        reserch: '1.5 սմ-ից ավելի, երկու և ավելի պոլիպների հեռացում',
+        price: 180000,
+        data: 180000,
+        quantity:1,
+    },
+    {
+        reserch: 'Օտար մարմնի հեռացում',
+        price: 120000,
+        data: 12000,
+        quantity:1,
+    },
+    {
+        reserch: 'Արյունահոսության դադարեցում',
+        price: 60000,
+        data: 60000,
+        quantity:1,
+    },
+    {
+        reserch: 'Հելիկոբակտերի որոշում',
+        price: 5000,
+        data: 5000,
+        quantity:1,
+    },
+    {
+        reserch: 'Անզգայացում էնդո.',
+        price: 20000,
+        data: 20000,
+        quantity:1,
+    },
+    {
+        reserch: 'Անզգայացում երկրորդ հատված էնդո.',
+        price: 25000,
+        data: 25000,
+        quantity:1,
+    },
+    {
+        reserch: 'Գաստրոսկոպիա + HP որոշում',
+        price: 25000,
+        data: 25000,
+        quantity:1,
+    },
+    {
+        reserch: 'Դուոդենոսկոպիա',
+        price: 22000,
+        data: 22000,
+        quantity:1,
+    },
+    {
+        reserch: 'Ստամոքսի բալոնի հեռացում',
+        price: 30000,
+        data: 30000,
+        quantity:1,
+    },
+    {
+        reserch: 'Կղանքի հետազոտություն դիսբակտերիոզի նկատմամբ',
+        price: 8000,
+        data: 8000,
+        quantity:1,
+    },
+    {
+        reserch: 'Երսինիոզ (արյուն, կղանք, մեզ)',
+        price: 5000,
+        data: 5000,
+        quantity:1,
+    },
+    {
+        reserch: 'Արտազատուկների բակ քննություն (քիթ-կոկորդ-ականջ)',
+        price: 7000,
+        data: 7000,
+        quantity:1,
+    },
+    {
+        reserch: 'Արյան ստերիլության բակ. քննություն',
+        price: 10000,
+        data: 10000,
+        quantity:1,
+    },
+    {
+        reserch: 'Մեզի բակ. քննություն',
+        price: 7000,
+        data: 7000,
+        quantity:1,
+    },
+    {
+        reserch: 'Կղանքի բակ. քննություն',
+        price: 6000,
+        data: 6000,
+        quantity:1,
+    },
+    {
+        reserch: 'Բրուցելոզ (Ռայտ-Հենդերսոն)',
+        price: 7000,
+        data: 7000,
+        quantity:1,
+    },
+
+]

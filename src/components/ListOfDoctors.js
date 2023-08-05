@@ -1,0 +1,148 @@
+export const ListOfDoctors =
+    [
+    
+        {
+            photo:'img/doc1.jpg',
+            name: 'Արշակ Այվազյան',
+            department: 'Ախտորոշիչ բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc2.webp',
+            name: 'Կարեն Հայրապետյան',
+            department: 'Անոթային վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc3.jpg',
+            name: 'Վարդան Սարգսյան',
+            department: 'Էնդոկրին վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc4.jpg',
+            name: 'Կարինե Հակոբյան',
+            department: 'Ընդհանուր թերապիայի բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc5.jpg',
+            name: 'Վազգեն Հունանյան',
+            department: 'Ակնաբուժական բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc6.jpg',
+            name: 'Նարինե Ասքանազյան',
+            department: 'Արյան բանկ',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc7.jpg',
+            name: 'Պետրոս Ավագյան',
+            department: 'Անեսթեզիոլոգիայի, վերակենդանացման և անհետաձգելի բուժօգնության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc8.jpg',
+            name: 'Հասմիկ Վարդազանյան',
+            department: 'Ընդհանուր վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc9.jpg',
+            name: 'Սարգիս Տոնոյան',
+            department: 'Էնդոսկոպիկ վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc10.jpg',
+            name: 'Կառլեն Համբարձումյան',
+            department: 'Դիմածնոտային վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc11.jpg',
+            name: 'Արմինե Մադաթյան',
+            department: 'Կոսմետոլոգիական ծառայություն',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc12.jpg',
+            name: 'Մեսրոպ Զանազանյան',
+            department: 'Ինվազիվ սրտաբանության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc1.jpg',
+            name: 'Արշակ Այվազյան',
+            department: 'Լաբորատորիա',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc2.webp',
+            name: 'Կարեն Հայրապետյան',
+            department: 'Կանանց կոնսուլտացիա',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc3.jpg',
+            name: 'Վարդան Սարգսյան',
+            department: 'Կոլոպրոկտոլոգիայի բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc4.jpg',
+            name: 'Կարինե Հակոբյան',
+            department: 'Կրծքային վիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc5.jpg',
+            name: 'Վազգեն Հունանյան',
+            department: 'Հեմոդիալիզի բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc6.jpg',
+            name: 'Նարինե Ասքանազյան',
+            department: 'Մանկաբարձագինեկոլոգիական բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc7.jpg',
+            name: 'Պետրոս Ավագյան',
+            department: 'Նեյրովիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc8.jpg',
+            name: 'Հասմիկ Վարդազանյան',
+            department: 'Նյարդաբանական բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc9.jpg',
+            name: 'Սարգիս Տոնոյան',
+            department: 'Նորածնային բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc10.jpg',
+            name: 'Կառլեն Համբարձումյան',
+            department: 'Ուռուցքաբանության բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc11.jpg',
+            name: 'Արմինե Մադաթյան',
+            department: 'Ուրոլոգիայի բաժանմունք',
+            number:'010 77 46 38',
+        },
+        {
+            photo:'img/doc12.jpg',
+            name: 'Մեսրոպ Զանազանյան',
+            department: 'Պլաստիկ և միկրովիրաբուժության բաժանմունք',
+            number:'010 77 46 38',
+        },
+    ]
